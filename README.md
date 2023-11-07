@@ -1,0 +1,1 @@
+# starter-architecture-flutter-firebase-f23
